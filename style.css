@@ -35,7 +35,15 @@ button:hover {
     background-color: #112ff5;
 }
 
-#result {
-    margin-top: 10px;
+#year {
+    padding-right: 160px;
+    font-weight: bold;
+}
+#months {
+    padding-left: 160px;
+    font-weight: bold;
+}
+#days {
+    padding-right: 10px;
     font-weight: bold;
 }
